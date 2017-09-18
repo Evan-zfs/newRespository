@@ -1,4 +1,10 @@
-456889
+revert  [ri'vә:t]
+vi.  恢复, 复归, 回复, 还原
+vt.  使回复原状, 使回转
+n.  恢复原信仰的人
+[计] 还原
 
-
-fsfghandhmnut
+discard  [dis'kɑ:d]
+vt.  丢弃, 抛弃
+vi.  垫牌
+n.  垫牌, 抛弃
