@@ -1,2 +1,36 @@
 idea
 
+Git是一款自由和开源的分布式版本控制系统，用于敏捷高效地处理任何或小或大的项目。
+Git - 版本控制工具
+Git是一个开源的分布式版本控制系统，用以有效、高速的处理从很小到非常大的项目版本管理。[4]
+Git 是 Linus Torvalds 为了帮助管理 Linux 内核开发而开发的一个开放源码的版本控制软件。
+Github - 一个网站，提供给用户空间创建git仓储，保存用户的一些数据文档或者代码等
+GitHub可以托管各种git库，并提供一个web界面，但与其它像 SourceForge或Google Code这样的服务不同，GitHub的独特卖点在于从另外一个项目进行分支的简易性。为一个项目贡献代码非常简单：首先点击项目站点的“fork”的按钮，然后将代码检出并将修改加入到刚才分出的代码库中，最后通过内建的“pull request”机制向项目负责人申请代码合并。已经有人将GitHub称为代码玩家的MySpace。
+GitLab - 基于Git的项目管理软件
+GitLab 是一个用于仓库管理系统的开源项目。使用Git作为代码管理工具，并在此基础上搭建起来的web服务。
+
+
+浏览器脚本教程：http://www.w3school.com.cn/b.asp
+
+
+download图形化工具：windows.github.com
+命令行操作：书《Pro Git》，GitLab免费安装使用(about.github.com).
+
+
+pull request：拉取请求
+
+fork：拷贝开源项目至...
+
+issues：事物卡片
+
+Markdown：简单标记性语言(评论，沟通交流)
+
+
+branch: gh-pages
+http://usernam.github.io
+
+jekyll框架：方便制作项目网站
+
+隐藏功能video：Git and GitHub Secrets
+famous Person：Linus Torvalds(操作系统之父), Chris Coyier(css chris作者), David Heinemeier Hansson, Scott Chacon(GitHub), Tom Preston-Werner(GitHub), zachholman(GitHub), 
+famous Project：jquery, node(js), angular(js), rail(编程框架), 
